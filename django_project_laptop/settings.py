@@ -29,7 +29,7 @@ SECRET_KEY = config['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['aihenku.com','www.aihenku.com','45.79.42.249']
+ALLOWED_HOSTS = ['sample.com']
 
 
 # Application definition
